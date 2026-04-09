@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-04-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
-    "GeeksForGeeks_Indexes_of_Subarray_Sum": true
+    "GeeksForGeeks_Indexes_of_Subarray_Sum": true,
+    "LeetCode_Calculator_with_Method_Chaining": true
   },
   "activityHistory": {
-    "2026-04-09": 1
+    "2026-04-09": 2
   },
   "todayProblems": [
-    "Indexes of Subarray Sum"
+    "Indexes of Subarray Sum",
+    "Calculator with Method Chaining"
   ]
 }
