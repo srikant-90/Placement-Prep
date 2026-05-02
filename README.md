@@ -6,3 +6,4 @@
 | 4 | [Sort 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | GeeksForGeeks | Medium | 29 Apr 2026 | 11:52 pm |
 | 5 | [Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) | GeeksForGeeks | Easy | 30 Apr 2026 | 11:07 pm |
 | 6 | [Union of Arrays with Duplicates](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1) | GeeksForGeeks | Easy | 01 May 2026 | 10:53 pm |
+| 7 | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksForGeeks | Basic | 02 May 2026 | 11:47 pm |
