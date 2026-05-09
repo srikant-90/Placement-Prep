@@ -8,3 +8,4 @@
 | 6 | [Union of Arrays with Duplicates](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1) | GeeksForGeeks | Easy | 01 May 2026 | 10:53 pm |
 | 7 | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksForGeeks | Basic | 02 May 2026 | 11:47 pm |
 | 8 | [Minimum Jumps](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1) | GeeksForGeeks | Medium | 08 May 2026 | 04:16 pm |
+| 9 | [Merge Without Extra Space](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) | GeeksForGeeks | Medium | 09 May 2026 | 11:04 pm |
