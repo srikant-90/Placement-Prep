@@ -1,12 +1,12 @@
 {
-  "totalSolved": 9,
-  "currentStreak": 2,
+  "totalSolved": 10,
+  "currentStreak": 1,
   "maxStreak": 5,
-  "lastSyncDate": "2026-05-09",
+  "lastSyncDate": "2026-05-11",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 5,
+    "medium": 6,
     "hard": 0,
     "basic": 1
   },
@@ -19,7 +19,8 @@
     "GeeksForGeeks_Union_of_Arrays_with_Duplicates": true,
     "GeeksForGeeks_Rotate_Array_by_One": true,
     "GeeksForGeeks_Minimum_Jumps": true,
-    "GeeksForGeeks_Merge_Without_Extra_Space": true
+    "GeeksForGeeks_Merge_Without_Extra_Space": true,
+    "GeeksForGeeks_Overlapping_Intervals": true
   },
   "activityHistory": {
     "2026-04-09": 2,
@@ -29,7 +30,8 @@
     "2026-05-01": 1,
     "2026-05-02": 1,
     "2026-05-08": 1,
-    "2026-05-09": 1
+    "2026-05-09": 1,
+    "2026-05-11": 1
   },
   "todayProblems": [
     "Indexes of Subarray Sum",
@@ -40,6 +42,7 @@
     "Union of Arrays with Duplicates",
     "Rotate Array by One",
     "Minimum Jumps",
-    "Merge Without Extra Space"
+    "Merge Without Extra Space",
+    "Overlapping Intervals"
   ]
 }
