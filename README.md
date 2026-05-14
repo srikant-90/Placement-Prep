@@ -12,3 +12,4 @@
 | 10 | [Overlapping Intervals](https://www.geeksforgeeks.org/problems/overlapping-intervals--170633/1) | GeeksForGeeks | Medium | 11 May 2026 | 07:52 pm |
 | 11 | [Next Permutation](https://www.geeksforgeeks.org/problems/next-permutation5226/1) | GeeksForGeeks | Medium | 12 May 2026 | 10:46 pm |
 | 12 | [Count Inversions](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | GeeksForGeeks | Medium | 13 May 2026 | 10:04 pm |
+| 13 | [Stock buy and sell](https://www.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1) | GeeksForGeeks | Medium | 14 May 2026 | 10:51 pm |
