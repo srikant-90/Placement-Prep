@@ -8,7 +8,7 @@
 [View Problem](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)
 
 ## Solved On
-15 May 2026 at 10:42 pm
+15 May 2026 at 10:43 pm
 
 <h2><a href="https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1">Two sum -Pairs with 0 Sum</a></h2><h3>Difficulty Level: Easy</h3><hr><p><span style="font-size: 14pt;">Given an integer array&nbsp;<strong>arr</strong>, return all the&nbsp;<strong>unique&nbsp;</strong>pairs [arr[i], arr[j]] such that<strong>&nbsp;i != j </strong>and<strong> arr[i] + arr[j] == 0.</strong></span></p>
 <p><span style="font-size: 14pt;">Note: The pairs must be returned in&nbsp;<strong>sorted&nbsp;</strong>order, the&nbsp;solution array<strong> </strong>should also be&nbsp;<strong>sorted</strong>, and the answer must not contain any&nbsp;<strong>duplicate&nbsp;</strong>pairs.</span></p>
