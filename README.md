@@ -14,3 +14,4 @@
 | 12 | [Count Inversions](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | GeeksForGeeks | Medium | 13 May 2026 | 10:04 pm |
 | 13 | [Stock buy and sell](https://www.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1) | GeeksForGeeks | Medium | 14 May 2026 | 10:51 pm |
 | 14 | [Two sum -Pairs with 0 Sum](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1) | GeeksForGeeks | Easy | 15 May 2026 | 10:43 pm |
+| 15 | [Common in 3 Sorted Arrays](https://www.geeksforgeeks.org/problems/common-elements1132/1) | GeeksForGeeks | Easy | 16 May 2026 | 02:57 pm |
