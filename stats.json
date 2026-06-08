@@ -1,12 +1,12 @@
 {
-  "totalSolved": 16,
+  "totalSolved": 17,
   "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-05-19",
+  "lastSyncDate": "2026-06-08",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 9,
+    "medium": 10,
     "hard": 0,
     "basic": 1
   },
@@ -26,7 +26,8 @@
     "GeeksForGeeks_Stock_buy_and_sell": true,
     "GeeksForGeeks_Two_sum_-Pairs_with_0_Sum": true,
     "GeeksForGeeks_Common_in_3_Sorted_Arrays": true,
-    "GeeksForGeeks_Alternate_Positive_Negative": true
+    "GeeksForGeeks_Alternate_Positive_Negative": true,
+    "GeeksForGeeks_Rearrange_Array_Alternately": true
   },
   "activityHistory": {
     "2026-04-09": 2,
@@ -43,7 +44,8 @@
     "2026-05-14": 1,
     "2026-05-15": 1,
     "2026-05-16": 1,
-    "2026-05-19": 1
+    "2026-05-19": 1,
+    "2026-06-08": 1
   },
   "todayProblems": [
     "Indexes of Subarray Sum",
@@ -61,6 +63,7 @@
     "Stock buy and sell",
     "Two sum -Pairs with 0 Sum",
     "Common in 3 Sorted Arrays",
-    "Alternate Positive Negative"
+    "Alternate Positive Negative",
+    "Rearrange Array Alternately"
   ]
 }

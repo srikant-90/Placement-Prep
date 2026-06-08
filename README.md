@@ -16,3 +16,4 @@
 | 14 | [Two sum -Pairs with 0 Sum](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1) | GeeksForGeeks | Easy | 15 May 2026 | 10:43 pm |
 | 15 | [Common in 3 Sorted Arrays](https://www.geeksforgeeks.org/problems/common-elements1132/1) | GeeksForGeeks | Easy | 16 May 2026 | 02:57 pm |
 | 16 | [Alternate Positive Negative](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1) | GeeksForGeeks | Easy | 19 May 2026 | 09:38 pm |
+| 17 | [Rearrange Array Alternately](https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) | GeeksForGeeks | Medium | 08 Jun 2026 | 03:09 pm |
