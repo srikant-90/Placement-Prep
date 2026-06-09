@@ -17,3 +17,4 @@
 | 15 | [Common in 3 Sorted Arrays](https://www.geeksforgeeks.org/problems/common-elements1132/1) | GeeksForGeeks | Easy | 16 May 2026 | 02:57 pm |
 | 16 | [Alternate Positive Negative](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1) | GeeksForGeeks | Easy | 19 May 2026 | 09:38 pm |
 | 17 | [Rearrange Array Alternately](https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) | GeeksForGeeks | Medium | 08 Jun 2026 | 03:09 pm |
+| 18 | [Subarray with 0 sum](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) | GeeksForGeeks | Medium | 09 Jun 2026 | 09:41 pm |
