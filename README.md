@@ -18,3 +18,4 @@
 | 16 | [Alternate Positive Negative](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1) | GeeksForGeeks | Easy | 19 May 2026 | 09:38 pm |
 | 17 | [Rearrange Array Alternately](https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) | GeeksForGeeks | Medium | 08 Jun 2026 | 03:09 pm |
 | 18 | [Subarray with 0 sum](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) | GeeksForGeeks | Medium | 09 Jun 2026 | 09:41 pm |
+| 19 | [Factorials of large numbers](./GeeksForGeeks/Medium/Factorials%20of%20large%20numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1) | Medium | 12 Jun 2026 | 10:17 pm |

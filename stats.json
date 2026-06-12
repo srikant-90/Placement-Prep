@@ -1,12 +1,12 @@
 {
-  "totalSolved": 18,
-  "currentStreak": 2,
+  "totalSolved": 19,
+  "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-06-09",
+  "lastSyncDate": "2026-06-12",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 11,
+    "medium": 12,
     "hard": 0,
     "basic": 1
   },
@@ -28,7 +28,8 @@
     "GeeksForGeeks_Common_in_3_Sorted_Arrays": true,
     "GeeksForGeeks_Alternate_Positive_Negative": true,
     "GeeksForGeeks_Rearrange_Array_Alternately": true,
-    "GeeksForGeeks_Subarray_with_0_sum": true
+    "GeeksForGeeks_Subarray_with_0_sum": true,
+    "GeeksForGeeks_Factorials_of_large_numbers": true
   },
   "activityHistory": {
     "2026-04-09": 2,
@@ -47,26 +48,10 @@
     "2026-05-16": 1,
     "2026-05-19": 1,
     "2026-06-08": 1,
-    "2026-06-09": 1
+    "2026-06-09": 1,
+    "2026-06-12": 1
   },
   "todayProblems": [
-    "Indexes of Subarray Sum",
-    "Calculator with Method Chaining",
-    "Kth Smallest",
-    "Sort 0s, 1s and 2s",
-    "Move all negative elements to end",
-    "Union of Arrays with Duplicates",
-    "Rotate Array by One",
-    "Minimum Jumps",
-    "Merge Without Extra Space",
-    "Overlapping Intervals",
-    "Next Permutation",
-    "Count Inversions",
-    "Stock buy and sell",
-    "Two sum -Pairs with 0 Sum",
-    "Common in 3 Sorted Arrays",
-    "Alternate Positive Negative",
-    "Rearrange Array Alternately",
-    "Subarray with 0 sum"
+    "Factorials of large numbers"
   ]
 }
