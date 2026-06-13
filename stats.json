@@ -1,12 +1,12 @@
 {
-  "totalSolved": 19,
-  "currentStreak": 1,
+  "totalSolved": 20,
+  "currentStreak": 2,
   "maxStreak": 6,
-  "lastSyncDate": "2026-06-12",
+  "lastSyncDate": "2026-06-13",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 12,
+    "medium": 13,
     "hard": 0,
     "basic": 1
   },
@@ -29,7 +29,8 @@
     "GeeksForGeeks_Alternate_Positive_Negative": true,
     "GeeksForGeeks_Rearrange_Array_Alternately": true,
     "GeeksForGeeks_Subarray_with_0_sum": true,
-    "GeeksForGeeks_Factorials_of_large_numbers": true
+    "GeeksForGeeks_Factorials_of_large_numbers": true,
+    "GeeksForGeeks_Maximum_Product_Subarray": true
   },
   "activityHistory": {
     "2026-04-09": 2,
@@ -49,9 +50,10 @@
     "2026-05-19": 1,
     "2026-06-08": 1,
     "2026-06-09": 1,
-    "2026-06-12": 1
+    "2026-06-12": 1,
+    "2026-06-13": 1
   },
   "todayProblems": [
-    "Factorials of large numbers"
+    "Maximum Product Subarray"
   ]
 }
