@@ -1,12 +1,12 @@
 {
-  "totalSolved": 20,
-  "currentStreak": 2,
+  "totalSolved": 21,
+  "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-06-13",
+  "lastSyncDate": "2026-06-15",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 13,
+    "medium": 14,
     "hard": 0,
     "basic": 1
   },
@@ -30,7 +30,8 @@
     "GeeksForGeeks_Rearrange_Array_Alternately": true,
     "GeeksForGeeks_Subarray_with_0_sum": true,
     "GeeksForGeeks_Factorials_of_large_numbers": true,
-    "GeeksForGeeks_Maximum_Product_Subarray": true
+    "GeeksForGeeks_Maximum_Product_Subarray": true,
+    "GeeksForGeeks_Longest_Consecutive_Subsequence": true
   },
   "activityHistory": {
     "2026-04-09": 2,
@@ -51,9 +52,10 @@
     "2026-06-08": 1,
     "2026-06-09": 1,
     "2026-06-12": 1,
-    "2026-06-13": 1
+    "2026-06-13": 1,
+    "2026-06-15": 1
   },
   "todayProblems": [
-    "Maximum Product Subarray"
+    "Longest Consecutive Subsequence"
   ]
 }
