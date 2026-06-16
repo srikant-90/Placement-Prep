@@ -1,12 +1,12 @@
 {
-  "totalSolved": 22,
+  "totalSolved": 23,
   "currentStreak": 2,
   "maxStreak": 6,
   "lastSyncDate": "2026-06-16",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 14,
+    "medium": 15,
     "hard": 0,
     "basic": 1
   },
@@ -32,10 +32,11 @@
     "GeeksForGeeks_Sort_0s,_1s_and_2s": true,
     "GeeksForGeeks_Kth_Smallest": true,
     "LeetCode_Calculator_with_Method_Chaining": true,
-    "GeeksForGeeks_Indexes_of_Subarray_Sum": true
+    "GeeksForGeeks_Indexes_of_Subarray_Sum": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
-    "2026-06-16": 1,
+    "2026-06-16": 2,
     "2026-06-15": 1,
     "2026-06-13": 1,
     "2026-06-12": 1,
@@ -57,7 +58,9 @@
     "2026-04-28": 1,
     "2026-04-09": 2
   },
-  "todayProblems": [],
+  "todayProblems": [
+    "Search in Rotated Sorted Array"
+  ],
   "usedTrophyDates": [],
   "usedMilestones": []
 }

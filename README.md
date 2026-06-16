@@ -22,3 +22,4 @@
 | 20 | [Maximum Product Subarray](./GeeksForGeeks/Medium/Maximum%20Product%20Subarray) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/1) | Medium | 13 Jun 2026 | 10:35 pm |
 | 21 | [Longest Consecutive Subsequence](./GeeksForGeeks/Medium/Longest%20Consecutive%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1) | Medium | 15 Jun 2026 | 08:21 pm |
 | 22 | [More than n/k Occurrences](./GeeksForGeeks/Easy/More%20than%20n/k%20Occurrences) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-element-occurences/1) | Easy | 16 Jun 2026 | 07:51 pm |
+| 23 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 16 Jun 2026 | 08:07 pm |
