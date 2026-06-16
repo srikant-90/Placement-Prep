@@ -1,11 +1,11 @@
 {
-  "totalSolved": 22,
+  "totalSolved": 23,
   "currentStreak": 2,
   "maxStreak": 6,
   "lastSyncDate": "2026-06-16",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 15,
     "hard": 0,
     "basic": 1
@@ -32,7 +32,8 @@
     "GeeksForGeeks_Factorials_of_large_numbers": true,
     "GeeksForGeeks_Maximum_Product_Subarray": true,
     "GeeksForGeeks_Longest_Consecutive_Subsequence": true,
-    "LeetCode_Next_Permutation": true
+    "LeetCode_Next_Permutation": true,
+    "GeeksForGeeks_More_than_n/k_Occurrences": true
   },
   "activityHistory": {
     "2026-04-09": 2,
@@ -55,9 +56,10 @@
     "2026-06-12": 1,
     "2026-06-13": 1,
     "2026-06-15": 1,
-    "2026-06-16": 1
+    "2026-06-16": 2
   },
   "todayProblems": [
-    "Next Permutation"
+    "Next Permutation",
+    "More than n/k Occurrences"
   ]
 }
