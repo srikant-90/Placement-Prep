@@ -23,3 +23,4 @@
 | 21 | [Longest Consecutive Subsequence](./GeeksForGeeks/Medium/Longest%20Consecutive%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1) | Medium | 15 Jun 2026 | 08:21 pm |
 | 22 | [More than n/k Occurrences](./GeeksForGeeks/Easy/More%20than%20n/k%20Occurrences) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-element-occurences/1) | Easy | 16 Jun 2026 | 07:51 pm |
 | 23 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 16 Jun 2026 | 08:07 pm |
+| 24 | [Stock Buy and Sell – Max K Transactions Allowed](./GeeksForGeeks/Hard/Stock%20Buy%20and%20Sell%20%E2%80%93%20Max%20K%20Transactions%20Allowed) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-profit4657/1) | Hard | 17 Jun 2026 | 08:33 pm |
