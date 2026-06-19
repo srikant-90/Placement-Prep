@@ -1,12 +1,12 @@
 {
-  "totalSolved": 25,
-  "currentStreak": 4,
+  "totalSolved": 26,
+  "currentStreak": 5,
   "maxStreak": 6,
-  "lastSyncDate": "2026-06-18",
+  "lastSyncDate": "2026-06-19",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 15,
+    "medium": 16,
     "hard": 1,
     "basic": 2
   },
@@ -34,8 +34,9 @@
     "LeetCode_Calculator_with_Method_Chaining": true,
     "GeeksForGeeks_Indexes_of_Subarray_Sum": true,
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
-    "GeeksForGeeks_Stock_Buy_and_Sell_â_Max_K_Transactions_Allowed": true,
-    "GeeksForGeeks_Array_Subset": true
+    "GeeksForGeeks_Stock_Buy_and_Sell_Ã¢ÂÂ_Max_K_Transactions_Allowed": true,
+    "GeeksForGeeks_Array_Subset": true,
+    "GeeksForGeeks_Triplet_Sum_in_Array": true
   },
   "activityHistory": {
     "2026-06-16": 2,
@@ -60,10 +61,11 @@
     "2026-04-28": 1,
     "2026-04-09": 2,
     "2026-06-17": 1,
-    "2026-06-18": 1
+    "2026-06-18": 1,
+    "2026-06-19": 1
   },
   "todayProblems": [
-    "Array Subset"
+    "Triplet Sum in Array"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
