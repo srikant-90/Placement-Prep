@@ -1,19 +1,19 @@
 {
-  "totalSolved": 31,
-  "currentStreak": 10,
-  "maxStreak": 10,
-  "lastSyncDate": "2026-06-24",
+  "totalSolved": 32,
+  "currentStreak": 11,
+  "maxStreak": 11,
+  "lastSyncDate": "2026-06-25",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 8,
     "medium": 16,
     "hard": 4,
-    "basic": 3
+    "basic": 4
   },
   "syncedProblems": {
     "GeeksForGeeks_Triplet_Sum_in_Array": true,
     "GeeksForGeeks_Array_Subset": true,
-    "GeeksForGeeks_Stock_Buy_and_Sell_ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ_Max_K_Transactions_Allowed": true,
+    "GeeksForGeeks_Stock_Buy_and_Sell_ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ_Max_K_Transactions_Allowed": true,
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
     "GeeksForGeeks_More_than_n/k_Occurrences": true,
     "GeeksForGeeks_Longest_Consecutive_Subsequence": true,
@@ -41,7 +41,8 @@
     "GeeksForGeeks_Three_way_partitioning": true,
     "GeeksForGeeks_Array_with_All_Palindromes": true,
     "GeeksForGeeks_Median_of_2_Sorted_Arrays_of_Same_Size": true,
-    "GeeksForGeeks_Median_of_2_Sorted_Arrays_of_Different_Sizes": true
+    "GeeksForGeeks_Median_of_2_Sorted_Arrays_of_Different_Sizes": true,
+    "GeeksForGeeks_Reverse_a_String": true
   },
   "activityHistory": {
     "2026-06-19": 1,
@@ -72,10 +73,11 @@
     "2026-06-21": 1,
     "2026-06-22": 1,
     "2026-06-23": 1,
-    "2026-06-24": 1
+    "2026-06-24": 1,
+    "2026-06-25": 1
   },
   "todayProblems": [
-    "Median of 2 Sorted Arrays of Different Sizes"
+    "Reverse a String"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
