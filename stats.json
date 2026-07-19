@@ -1,12 +1,12 @@
 {
-  "totalSolved": 45,
+  "totalSolved": 46,
   "currentStreak": 1,
   "maxStreak": 18,
   "lastSyncDate": "2026-07-19",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 24,
+    "medium": 25,
     "hard": 6,
     "basic": 4
   },
@@ -30,7 +30,7 @@
     "GeeksForGeeks_Trapping_Rain_Water": true,
     "GeeksForGeeks_Triplet_Sum_in_Array": true,
     "GeeksForGeeks_Array_Subset": true,
-    "GeeksForGeeks_Stock_Buy_and_Sell_Ã¢ÂÂ_Max_K_Transactions_Allowed": true,
+    "GeeksForGeeks_Stock_Buy_and_Sell_ÃÂ¢ÃÂÃÂ_Max_K_Transactions_Allowed": true,
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
     "GeeksForGeeks_More_than_n/k_Occurrences": true,
     "GeeksForGeeks_Longest_Consecutive_Subsequence": true,
@@ -55,7 +55,8 @@
     "LeetCode_Calculator_with_Method_Chaining": true,
     "GeeksForGeeks_Indexes_of_Subarray_Sum": true,
     "Manual_Testing1": true,
-    "LeetCode_Longest_Palindromic_Substring": true
+    "LeetCode_Longest_Palindromic_Substring": true,
+    "LeetCode_String_to_Integer_(atoi)": true
   },
   "activityHistory": {
     "2026-07-06": 1,
@@ -98,11 +99,12 @@
     "2026-04-29": 1,
     "2026-04-28": 1,
     "2026-04-09": 2,
-    "2026-07-19": 2
+    "2026-07-19": 3
   },
   "todayProblems": [
     "Testing1",
-    "Longest Palindromic Substring"
+    "Longest Palindromic Substring",
+    "String to Integer (atoi)"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
