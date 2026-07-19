@@ -1,29 +1,29 @@
 | # | Problem | Platform | Difficulty | Date Solved | Time |
 |---|---------|----------|------------|-------------|------|
-| 1 | [Indexes of Subarray Sum](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&sortBy=submissions) | GeeksForGeeks | Medium | 09 Apr 2026 | 02:40 pm |
-| 2 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/) | LeetCode | Easy | 09 Apr 2026 | 02:58 pm |
-| 3 | [Kth Smallest](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | GeeksForGeeks | Medium | 28 Apr 2026 | 08:42 am |
-| 4 | [Sort 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | GeeksForGeeks | Medium | 29 Apr 2026 | 11:52 pm |
-| 5 | [Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) | GeeksForGeeks | Easy | 30 Apr 2026 | 11:07 pm |
-| 6 | [Union of Arrays with Duplicates](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1) | GeeksForGeeks | Easy | 01 May 2026 | 10:53 pm |
-| 7 | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksForGeeks | Basic | 02 May 2026 | 11:47 pm |
-| 8 | [Minimum Jumps](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1) | GeeksForGeeks | Medium | 08 May 2026 | 04:16 pm |
-| 9 | [Merge Without Extra Space](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) | GeeksForGeeks | Medium | 09 May 2026 | 11:04 pm |
-| 10 | [Overlapping Intervals](https://www.geeksforgeeks.org/problems/overlapping-intervals--170633/1) | GeeksForGeeks | Medium | 11 May 2026 | 07:52 pm |
-| 11 | [Next Permutation](https://www.geeksforgeeks.org/problems/next-permutation5226/1) | GeeksForGeeks | Medium | 12 May 2026 | 10:46 pm |
-| 12 | [Count Inversions](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | GeeksForGeeks | Medium | 13 May 2026 | 10:04 pm |
-| 13 | [Stock buy and sell](https://www.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1) | GeeksForGeeks | Medium | 14 May 2026 | 10:51 pm |
-| 14 | [Two sum -Pairs with 0 Sum](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1) | GeeksForGeeks | Easy | 15 May 2026 | 10:43 pm |
-| 15 | [Common in 3 Sorted Arrays](https://www.geeksforgeeks.org/problems/common-elements1132/1) | GeeksForGeeks | Easy | 16 May 2026 | 02:57 pm |
-| 16 | [Alternate Positive Negative](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1) | GeeksForGeeks | Easy | 19 May 2026 | 09:38 pm |
-| 17 | [Rearrange Array Alternately](https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) | GeeksForGeeks | Medium | 08 Jun 2026 | 03:09 pm |
-| 18 | [Subarray with 0 sum](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) | GeeksForGeeks | Medium | 09 Jun 2026 | 09:41 pm |
+| 1 | [Indexes of Subarray Sum](./GeeksForGeeks/Medium/Indexes%20of%20Subarray%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&sortBy=submissions) | Medium | 09 Apr 2026 | 02:40 pm |
+| 2 | [Calculator with Method Chaining](./LeetCode/Easy/Calculator%20with%20Method%20Chaining) | [LeetCode](https://leetcode.com/problems/calculator-with-method-chaining/) | Easy | 09 Apr 2026 | 02:58 pm |
+| 3 | [Kth Smallest](./GeeksForGeeks/Medium/Kth%20Smallest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | Medium | 28 Apr 2026 | 08:42 am |
+| 4 | [Sort 0s, 1s and 2s](./GeeksForGeeks/Medium/Sort%200s%2C%201s%20and%202s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | Medium | 29 Apr 2026 | 11:52 pm |
+| 5 | [Move all negative elements to end](./GeeksForGeeks/Easy/Move%20all%20negative%20elements%20to%20end) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) | Easy | 30 Apr 2026 | 11:07 pm |
+| 6 | [Union of Arrays with Duplicates](./GeeksForGeeks/Easy/Union%20of%20Arrays%20with%20Duplicates) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1) | Easy | 01 May 2026 | 10:53 pm |
+| 7 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Basic | 02 May 2026 | 11:47 pm |
+| 8 | [Minimum Jumps](./GeeksForGeeks/Medium/Minimum%20Jumps) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1) | Medium | 08 May 2026 | 04:16 pm |
+| 9 | [Merge Without Extra Space](./GeeksForGeeks/Medium/Merge%20Without%20Extra%20Space) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) | Medium | 09 May 2026 | 11:04 pm |
+| 10 | [Overlapping Intervals](./GeeksForGeeks/Medium/Overlapping%20Intervals) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/overlapping-intervals--170633/1) | Medium | 11 May 2026 | 07:52 pm |
+| 11 | [Next Permutation](./GeeksForGeeks/Medium/Next%20Permutation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-permutation5226/1) | Medium | 12 May 2026 | 10:46 pm |
+| 12 | [Count Inversions](./GeeksForGeeks/Medium/Count%20Inversions) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | Medium | 13 May 2026 | 10:04 pm |
+| 13 | [Stock buy and sell](./GeeksForGeeks/Medium/Stock%20buy%20and%20sell) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1) | Medium | 14 May 2026 | 10:51 pm |
+| 14 | [Two sum -Pairs with 0 Sum](./GeeksForGeeks/Easy/Two%20sum%20-Pairs%20with%200%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1) | Easy | 15 May 2026 | 10:43 pm |
+| 15 | [Common in 3 Sorted Arrays](./GeeksForGeeks/Easy/Common%20in%203%20Sorted%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/common-elements1132/1) | Easy | 16 May 2026 | 02:57 pm |
+| 16 | [Alternate Positive Negative](./GeeksForGeeks/Easy/Alternate%20Positive%20Negative) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1) | Easy | 19 May 2026 | 09:38 pm |
+| 17 | [Rearrange Array Alternately](./GeeksForGeeks/Medium/Rearrange%20Array%20Alternately) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) | Medium | 08 Jun 2026 | 03:09 pm |
+| 18 | [Subarray with 0 sum](./GeeksForGeeks/Medium/Subarray%20with%200%20sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) | Medium | 09 Jun 2026 | 09:41 pm |
 | 19 | [Factorials of large numbers](./GeeksForGeeks/Medium/Factorials%20of%20large%20numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1) | Medium | 12 Jun 2026 | 10:17 pm |
 | 20 | [Maximum Product Subarray](./GeeksForGeeks/Medium/Maximum%20Product%20Subarray) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/1) | Medium | 13 Jun 2026 | 10:35 pm |
 | 21 | [Longest Consecutive Subsequence](./GeeksForGeeks/Medium/Longest%20Consecutive%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1) | Medium | 15 Jun 2026 | 08:21 pm |
 | 22 | [More than n/k Occurrences](./GeeksForGeeks/Easy/More%20than%20n/k%20Occurrences) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-element-occurences/1) | Easy | 16 Jun 2026 | 07:51 pm |
 | 23 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 16 Jun 2026 | 08:07 pm |
-| 24 | [Stock Buy and Sell Ã¢ÂÂ Max K Transactions Allowed](./GeeksForGeeks/Hard/Stock%20Buy%20and%20Sell%20%E2%80%93%20Max%20K%20Transactions%20Allowed) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-profit4657/1) | Hard | 17 Jun 2026 | 08:33 pm |
+| 24 | [Stock Buy and Sell ÃÂ¢ÃÂÃÂ Max K Transactions Allowed](./GeeksForGeeks/Hard/Stock%20Buy%20and%20Sell%20%C3%83%C2%83%C3%82%C2%A2%C3%83%C2%82%C3%82%C2%80%C3%83%C2%82%C3%82%C2%93%20Max%20K%20Transactions%20Allowed) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-profit4657/1) | Hard | 17 Jun 2026 | 08:33 pm |
 | 25 | [Array Subset](./GeeksForGeeks/Basic/Array%20Subset) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | Basic | 18 Jun 2026 | 08:04 pm |
 | 26 | [Triplet Sum in Array](./GeeksForGeeks/Medium/Triplet%20Sum%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1) | Medium | 19 Jun 2026 | 10:46 am |
 | 27 | [Trapping Rain Water](./GeeksForGeeks/Hard/Trapping%20Rain%20Water) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1) | Hard | 20 Jun 2026 | 11:01 pm |
