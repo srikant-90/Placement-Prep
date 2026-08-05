@@ -1,11 +1,11 @@
 {
-  "totalSolved": 3,
-  "currentStreak": 3,
-  "maxStreak": 3,
-  "lastSyncDate": "2026-08-04",
+  "totalSolved": 4,
+  "currentStreak": 4,
+  "maxStreak": 4,
+  "lastSyncDate": "2026-08-05",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 1,
     "hard": 0,
     "basic": 0
@@ -13,14 +13,16 @@
   "syncedProblems": {
     "LeetCode_Sort_Colors": true,
     "LeetCode_Merge_Sorted_Array": true,
-    "LeetCode_Valid_Anagram": true
+    "LeetCode_Valid_Anagram": true,
+    "LeetCode_Power_of_Two": true
   },
   "activityHistory": {
     "2026-08-02": 1,
     "2026-08-03": 1,
-    "2026-08-04": 1
+    "2026-08-04": 1,
+    "2026-08-05": 1
   },
   "todayProblems": [
-    "Valid Anagram"
+    "Power of Two"
   ]
 }
