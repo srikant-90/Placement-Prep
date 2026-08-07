@@ -1,12 +1,12 @@
 {
-  "totalSolved": 5,
-  "currentStreak": 5,
-  "maxStreak": 5,
-  "lastSyncDate": "2026-08-06",
+  "totalSolved": 6,
+  "currentStreak": 6,
+  "maxStreak": 6,
+  "lastSyncDate": "2026-08-07",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
@@ -15,16 +15,18 @@
     "LeetCode_Merge_Sorted_Array": true,
     "LeetCode_Valid_Anagram": true,
     "LeetCode_Power_of_Two": true,
-    "LeetCode_Isomorphic_Strings": true
+    "LeetCode_Isomorphic_Strings": true,
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_II": true
   },
   "activityHistory": {
     "2026-08-02": 1,
     "2026-08-03": 1,
     "2026-08-04": 1,
     "2026-08-05": 1,
-    "2026-08-06": 1
+    "2026-08-06": 1,
+    "2026-08-07": 1
   },
   "todayProblems": [
-    "Isomorphic Strings"
+    "Best Time to Buy and Sell Stock II"
   ]
 }
