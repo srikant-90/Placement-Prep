@@ -7,3 +7,4 @@
 | 5 | [Power of Two](./LeetCode/Easy/Power%20of%20Two) | [LeetCode](https://leetcode.com/problems/power-of-two/) | Easy | 05 Aug 2026 | 08:38 am |
 | 6 | [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) | [LeetCode](https://leetcode.com/problems/isomorphic-strings/) | Easy | 06 Aug 2026 | 08:27 am |
 | 7 | [Best Time to Buy and Sell Stock II](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | 07 Aug 2026 | 08:22 pm |
+| 8 | [Contains Duplicate](./LeetCode/Easy/Contains%20Duplicate) | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | Easy | 08 Aug 2026 | 07:42 pm |
