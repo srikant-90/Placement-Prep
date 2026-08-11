@@ -10,3 +10,4 @@
 | 8 | [Contains Duplicate](./LeetCode/Easy/Contains%20Duplicate) | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | Easy | 08 Aug 2026 | 07:42 pm |
 | 9 | [Word Pattern](./LeetCode/Easy/Word%20Pattern) | [LeetCode](https://leetcode.com/problems/word-pattern/) | Easy | 09 Aug 2026 | 09:51 pm |
 | 10 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 10 Aug 2026 | 09:55 pm |
+| 11 | [Largest Number](./LeetCode/Medium/Largest%20Number) | [LeetCode](https://leetcode.com/problems/largest-number/) | Medium | 11 Aug 2026 | 08:09 pm |
