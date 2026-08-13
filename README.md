@@ -12,3 +12,4 @@
 | 10 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 10 Aug 2026 | 09:55 pm |
 | 11 | [Largest Number](./LeetCode/Medium/Largest%20Number) | [LeetCode](https://leetcode.com/problems/largest-number/) | Medium | 11 Aug 2026 | 08:09 pm |
 | 12 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 12 Aug 2026 | 08:24 pm |
+| 13 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 13 Aug 2026 | 10:41 pm |
