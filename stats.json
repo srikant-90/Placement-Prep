@@ -1,11 +1,11 @@
 {
-  "totalSolved": 12,
-  "currentStreak": 12,
-  "maxStreak": 12,
-  "lastSyncDate": "2026-08-13",
+  "totalSolved": 13,
+  "currentStreak": 13,
+  "maxStreak": 13,
+  "lastSyncDate": "2026-08-14",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 9,
+    "easy": 10,
     "medium": 3,
     "hard": 0,
     "basic": 0
@@ -22,7 +22,8 @@
     "LeetCode_Majority_Element": true,
     "LeetCode_Largest_Number": true,
     "LeetCode_Move_Zeroes": true,
-    "LeetCode_Missing_Number": true
+    "LeetCode_Missing_Number": true,
+    "LeetCode_Intersection_of_Two_Arrays": true
   },
   "activityHistory": {
     "2026-08-02": 1,
@@ -36,9 +37,10 @@
     "2026-08-10": 1,
     "2026-08-11": 1,
     "2026-08-12": 1,
-    "2026-08-13": 1
+    "2026-08-13": 1,
+    "2026-08-14": 1
   },
   "todayProblems": [
-    "Missing Number"
+    "Intersection of Two Arrays"
   ]
 }

@@ -13,3 +13,4 @@
 | 11 | [Largest Number](./LeetCode/Medium/Largest%20Number) | [LeetCode](https://leetcode.com/problems/largest-number/) | Medium | 11 Aug 2026 | 08:09 pm |
 | 12 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 12 Aug 2026 | 08:24 pm |
 | 13 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 13 Aug 2026 | 10:41 pm |
+| 14 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 14 Aug 2026 | 04:55 pm |
