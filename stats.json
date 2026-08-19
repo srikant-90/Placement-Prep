@@ -1,11 +1,11 @@
 {
-  "totalSolved": 16,
-  "currentStreak": 16,
+  "totalSolved": 17,
+  "currentStreak": 1,
   "maxStreak": 16,
-  "lastSyncDate": "2026-08-17",
+  "lastSyncDate": "2026-08-19",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 12,
+    "easy": 13,
     "medium": 4,
     "hard": 0,
     "basic": 0
@@ -26,7 +26,8 @@
     "LeetCode_Intersection_of_Two_Arrays": true,
     "LeetCode_Intersection_of_Two_Arrays_II": true,
     "LeetCode_Third_Maximum_Number": true,
-    "LeetCode_4Sum": true
+    "LeetCode_4Sum": true,
+    "LeetCode_First_Unique_Character_in_a_String": true
   },
   "activityHistory": {
     "2026-08-02": 1,
@@ -44,9 +45,10 @@
     "2026-08-14": 1,
     "2026-08-15": 1,
     "2026-08-16": 1,
-    "2026-08-17": 1
+    "2026-08-17": 1,
+    "2026-08-19": 1
   },
   "todayProblems": [
-    "4Sum"
+    "First Unique Character in a String"
   ]
 }
