@@ -18,3 +18,4 @@
 | 16 | [Third Maximum Number](./LeetCode/Easy/Third%20Maximum%20Number) | [LeetCode](https://leetcode.com/problems/third-maximum-number/) | Easy | 16 Aug 2026 | 06:39 pm |
 | 17 | [4Sum](./LeetCode/Medium/4Sum) | [LeetCode](https://leetcode.com/problems/4sum/) | Medium | 17 Aug 2026 | 09:28 pm |
 | 18 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 19 Aug 2026 | 12:00 pm |
+| 19 | [Sort Array By Parity](./LeetCode/Easy/Sort%20Array%20By%20Parity) | [LeetCode](https://leetcode.com/problems/sort-array-by-parity/) | Easy | 20 Aug 2026 | 06:57 pm |
