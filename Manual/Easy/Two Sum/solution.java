@@ -15,5 +15,13 @@ map.put(nums[i],i);
 }
 return new int[]{-1,-1};
 }
+  public static void main(String[] args)
+  {
+    Solution obj=new Solution();
+    int nums={2,7,3,5,8};
+    int target=9;
+    int[] res=obj.twosum(nums,target);
+    System.out.println("Indices:"+Arrays.toString(res));
+  }
 }
 
