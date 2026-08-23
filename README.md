@@ -21,3 +21,4 @@
 | 19 | [Sort Array By Parity](./LeetCode/Easy/Sort%20Array%20By%20Parity) | [LeetCode](https://leetcode.com/problems/sort-array-by-parity/) | Easy | 20 Aug 2026 | 06:57 pm |
 | 20 | [Two Sum](./Manual/Easy/Two%20Sum) | Manual | Easy | 21 Aug 2026 | 12:11 pm |
 | 21 | [Reverse Array](./Manual/Easy/Reverse%20Array) | Manual | Easy | 22 Aug 2026 | 04:42 pm |
+| 22 | [MinMax](./Manual/Medium/MinMax) | Manual | Medium | 23 Aug 2026 | 09:43 pm |
