@@ -23,3 +23,4 @@
 | 21 | [Reverse Array](./Manual/Easy/Reverse%20Array) | Manual | Easy | 22 Aug 2026 | 04:42 pm |
 | 22 | [MinMax](./Manual/Medium/MinMax) | Manual | Medium | 23 Aug 2026 | 09:43 pm |
 | 23 | [KTH-min and max](./Manual/Easy/KTH-min%20and%20max) | Manual | Easy | 24 Aug 2026 | 10:47 pm |
+| 24 | [move negative elements to one side](./Manual/Easy/move%20negative%20elements%20to%20one%20side) | Manual | Easy | 25 Aug 2026 | 09:49 pm |
