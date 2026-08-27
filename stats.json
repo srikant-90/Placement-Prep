@@ -1,11 +1,11 @@
 {
-  "totalSolved": 24,
-  "currentStreak": 8,
+  "totalSolved": 25,
+  "currentStreak": 9,
   "maxStreak": 16,
-  "lastSyncDate": "2026-08-26",
+  "lastSyncDate": "2026-08-27",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 19,
+    "easy": 20,
     "medium": 5,
     "hard": 0,
     "basic": 0
@@ -34,7 +34,8 @@
     "Manual_MinMax": true,
     "Manual_KTH-min_and_max": true,
     "Manual_move_negative_elements_to_one_side": true,
-    "Manual_Union_of_sorted_arrays": true
+    "Manual_Union_of_sorted_arrays": true,
+    "Manual_Check_Anagram": true
   },
   "activityHistory": {
     "2026-08-02": 1,
@@ -60,9 +61,10 @@
     "2026-08-23": 1,
     "2026-08-24": 1,
     "2026-08-25": 1,
-    "2026-08-26": 1
+    "2026-08-26": 1,
+    "2026-08-27": 1
   },
   "todayProblems": [
-    "Union of sorted arrays"
+    "Check Anagram"
   ]
 }

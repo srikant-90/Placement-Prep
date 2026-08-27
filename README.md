@@ -25,3 +25,4 @@
 | 23 | [KTH-min and max](./Manual/Easy/KTH-min%20and%20max) | Manual | Easy | 24 Aug 2026 | 10:47 pm |
 | 24 | [move negative elements to one side](./Manual/Easy/move%20negative%20elements%20to%20one%20side) | Manual | Easy | 25 Aug 2026 | 09:49 pm |
 | 25 | [Union of sorted arrays](./Manual/Easy/Union%20of%20sorted%20arrays) | Manual | Easy | 26 Aug 2026 | 11:00 pm |
+| 26 | [Check Anagram](./Manual/Easy/Check%20Anagram) | Manual | Easy | 27 Aug 2026 | 11:38 pm |
