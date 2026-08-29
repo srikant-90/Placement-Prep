@@ -27,3 +27,4 @@
 | 25 | [Union of sorted arrays](./Manual/Easy/Union%20of%20sorted%20arrays) | Manual | Easy | 26 Aug 2026 | 11:00 pm |
 | 26 | [Check Anagram](./Manual/Easy/Check%20Anagram) | Manual | Easy | 27 Aug 2026 | 11:38 pm |
 | 27 | [LongestString](./Manual/Easy/LongestString) | Manual | Easy | 28 Aug 2026 | 10:47 pm |
+| 28 | [Minimize heights](./Manual/Easy/Minimize%20heights) | Manual | Easy | 29 Aug 2026 | 11:28 pm |
