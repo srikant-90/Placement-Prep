@@ -28,3 +28,4 @@
 | 26 | [Check Anagram](./Manual/Easy/Check%20Anagram) | Manual | Easy | 27 Aug 2026 | 11:38 pm |
 | 27 | [LongestString](./Manual/Easy/LongestString) | Manual | Easy | 28 Aug 2026 | 10:47 pm |
 | 28 | [Minimize heights](./Manual/Easy/Minimize%20heights) | Manual | Easy | 29 Aug 2026 | 11:28 pm |
+| 29 | [reverse words of string](./Manual/Easy/reverse%20words%20of%20string) | Manual | Easy | 30 Aug 2026 | 11:20 pm |
