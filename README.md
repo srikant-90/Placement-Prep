@@ -33,3 +33,4 @@
 | 31 | [reverse vowels](./Manual/Easy/reverse%20vowels) | Manual | Easy | 01 Sept 2026 | 11:41 pm |
 | 32 | [Sum of Squares](./Manual/Easy/Sum%20of%20Squares) | Manual | Easy | 02 Sept 2026 | 11:26 pm |
 | 33 | [Merge overlap](./Manual/Medium/Merge%20overlap) | Manual | Medium | 03 Sept 2026 | 11:54 pm |
+| 34 | [Kuch bhi](./Manual/Easy/Kuch%20bhi) | Manual | Easy | 04 Sept 2026 | 10:25 pm |
