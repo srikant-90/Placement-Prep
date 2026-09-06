@@ -1,12 +1,12 @@
 {
-  "totalSolved": 34,
-  "currentStreak": 18,
-  "maxStreak": 18,
-  "lastSyncDate": "2026-09-05",
+  "totalSolved": 35,
+  "currentStreak": 19,
+  "maxStreak": 19,
+  "lastSyncDate": "2026-09-06",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 27,
-    "medium": 7,
+    "medium": 8,
     "hard": 0,
     "basic": 0
   },
@@ -44,7 +44,8 @@
     "Manual_Sum_of_Squares": true,
     "Manual_Merge_overlap": true,
     "Manual_Kuch_bhi": true,
-    "GeeksForGeeks_Stock_Buy_And_Sell": true
+    "GeeksForGeeks_Stock_Buy_And_Sell": true,
+    "GeeksForGeeks_Remove_Adjacent_String": true
   },
   "activityHistory": {
     "2026-08-02": 1,
@@ -80,9 +81,10 @@
     "2026-09-02": 1,
     "2026-09-03": 1,
     "2026-09-04": 1,
-    "2026-09-05": 1
+    "2026-09-05": 1,
+    "2026-09-06": 1
   },
   "todayProblems": [
-    "Stock Buy And Sell"
+    "Remove Adjacent String"
   ]
 }
