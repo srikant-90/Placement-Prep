@@ -1,12 +1,12 @@
 {
-  "totalSolved": 35,
-  "currentStreak": 19,
-  "maxStreak": 19,
-  "lastSyncDate": "2026-09-06",
+  "totalSolved": 36,
+  "currentStreak": 20,
+  "maxStreak": 20,
+  "lastSyncDate": "2026-09-07",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 27,
-    "medium": 8,
+    "medium": 9,
     "hard": 0,
     "basic": 0
   },
@@ -45,7 +45,8 @@
     "Manual_Merge_overlap": true,
     "Manual_Kuch_bhi": true,
     "GeeksForGeeks_Stock_Buy_And_Sell": true,
-    "GeeksForGeeks_Remove_Adjacent_String": true
+    "GeeksForGeeks_Remove_Adjacent_String": true,
+    "GeeksForGeeks_Remove_character_that_appear_more_tha_once": true
   },
   "activityHistory": {
     "2026-08-02": 1,
@@ -82,9 +83,10 @@
     "2026-09-03": 1,
     "2026-09-04": 1,
     "2026-09-05": 1,
-    "2026-09-06": 1
+    "2026-09-06": 1,
+    "2026-09-07": 1
   },
   "todayProblems": [
-    "Remove Adjacent String"
+    "Remove character that appear more tha once"
   ]
 }
