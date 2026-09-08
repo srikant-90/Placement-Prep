@@ -37,3 +37,4 @@
 | 35 | [Stock Buy And Sell](./GeeksForGeeks/Medium/Stock%20Buy%20And%20Sell) | GeeksForGeeks | Medium | 05 Sept 2026 | 10:51 pm |
 | 36 | [Remove Adjacent String](./GeeksForGeeks/Medium/Remove%20Adjacent%20String) | GeeksForGeeks | Medium | 06 Sept 2026 | 10:52 pm |
 | 37 | [Remove character that appear more tha once](./GeeksForGeeks/Medium/Remove%20character%20that%20appear%20more%20tha%20once) | GeeksForGeeks | Medium | 07 Sept 2026 | 10:39 pm |
+| 38 | [Rearrange array](./GeeksForGeeks/Medium/Rearrange%20array) | GeeksForGeeks | Medium | 08 Sept 2026 | 12:07 pm |
