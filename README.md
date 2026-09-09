@@ -38,3 +38,4 @@
 | 36 | [Remove Adjacent String](./GeeksForGeeks/Medium/Remove%20Adjacent%20String) | GeeksForGeeks | Medium | 06 Sept 2026 | 10:52 pm |
 | 37 | [Remove character that appear more tha once](./GeeksForGeeks/Medium/Remove%20character%20that%20appear%20more%20tha%20once) | GeeksForGeeks | Medium | 07 Sept 2026 | 10:39 pm |
 | 38 | [Rearrange array](./GeeksForGeeks/Medium/Rearrange%20array) | GeeksForGeeks | Medium | 08 Sept 2026 | 12:07 pm |
+| 39 | [detect duplicate](./Manual/Easy/detect%20duplicate) | Manual | Easy | 09 Sept 2026 | 11:00 am |
