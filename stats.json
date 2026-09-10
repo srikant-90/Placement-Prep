@@ -1,12 +1,12 @@
 {
-  "totalSolved": 38,
-  "currentStreak": 22,
-  "maxStreak": 22,
-  "lastSyncDate": "2026-09-09",
+  "totalSolved": 39,
+  "currentStreak": 23,
+  "maxStreak": 23,
+  "lastSyncDate": "2026-09-10",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 28,
-    "medium": 10,
+    "medium": 11,
     "hard": 0,
     "basic": 0
   },
@@ -48,7 +48,8 @@
     "GeeksForGeeks_Remove_Adjacent_String": true,
     "GeeksForGeeks_Remove_character_that_appear_more_tha_once": true,
     "GeeksForGeeks_Rearrange_array": true,
-    "Manual_detect_duplicate": true
+    "Manual_detect_duplicate": true,
+    "LeetCode_longest_palindromic_substring": true
   },
   "activityHistory": {
     "2026-08-02": 1,
@@ -88,9 +89,10 @@
     "2026-09-06": 1,
     "2026-09-07": 1,
     "2026-09-08": 1,
-    "2026-09-09": 1
+    "2026-09-09": 1,
+    "2026-09-10": 1
   },
   "todayProblems": [
-    "detect duplicate"
+    "longest palindromic substring"
   ]
 }

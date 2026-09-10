@@ -39,3 +39,4 @@
 | 37 | [Remove character that appear more tha once](./GeeksForGeeks/Medium/Remove%20character%20that%20appear%20more%20tha%20once) | GeeksForGeeks | Medium | 07 Sept 2026 | 10:39 pm |
 | 38 | [Rearrange array](./GeeksForGeeks/Medium/Rearrange%20array) | GeeksForGeeks | Medium | 08 Sept 2026 | 12:07 pm |
 | 39 | [detect duplicate](./Manual/Easy/detect%20duplicate) | Manual | Easy | 09 Sept 2026 | 11:00 am |
+| 40 | [longest palindromic substring](./LeetCode/Medium/longest%20palindromic%20substring) | LeetCode | Medium | 10 Sept 2026 | 11:57 pm |
