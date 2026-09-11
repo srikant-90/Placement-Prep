@@ -40,3 +40,4 @@
 | 38 | [Rearrange array](./GeeksForGeeks/Medium/Rearrange%20array) | GeeksForGeeks | Medium | 08 Sept 2026 | 12:07 pm |
 | 39 | [detect duplicate](./Manual/Easy/detect%20duplicate) | Manual | Easy | 09 Sept 2026 | 11:00 am |
 | 40 | [longest palindromic substring](./LeetCode/Medium/longest%20palindromic%20substring) | LeetCode | Medium | 10 Sept 2026 | 11:57 pm |
+| 41 | [Longest consecutive Subsequence](./Manual/Medium/Longest%20consecutive%20Subsequence) | Manual | Medium | 11 Sept 2026 | 08:57 pm |
