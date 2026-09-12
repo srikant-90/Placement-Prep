@@ -1,12 +1,12 @@
 {
-  "totalSolved": 40,
-  "currentStreak": 24,
-  "maxStreak": 24,
-  "lastSyncDate": "2026-09-11",
+  "totalSolved": 41,
+  "currentStreak": 25,
+  "maxStreak": 25,
+  "lastSyncDate": "2026-09-12",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 28,
-    "medium": 12,
+    "medium": 13,
     "hard": 0,
     "basic": 0
   },
@@ -50,7 +50,8 @@
     "GeeksForGeeks_Rearrange_array": true,
     "Manual_detect_duplicate": true,
     "LeetCode_longest_palindromic_substring": true,
-    "Manual_Longest_consecutive_Subsequence": true
+    "Manual_Longest_consecutive_Subsequence": true,
+    "Manual_Array_Subset": true
   },
   "activityHistory": {
     "2026-08-02": 1,
@@ -92,9 +93,10 @@
     "2026-09-08": 1,
     "2026-09-09": 1,
     "2026-09-10": 1,
-    "2026-09-11": 1
+    "2026-09-11": 1,
+    "2026-09-12": 1
   },
   "todayProblems": [
-    "Longest consecutive Subsequence"
+    "Array Subset"
   ]
 }
