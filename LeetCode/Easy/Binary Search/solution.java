@@ -2,7 +2,7 @@ class Solution
 {
 public static void main(String[] args)
 {
-int[] arr={10,20,30,40,50,60}
+int[] arr={10,20,30,40,50,60};
 int target=60;
 
 int left=0;
@@ -13,7 +13,7 @@ while(left<=right)
 int mid=(left+right)/2;
 if(arr[mid]==target)
 {
-index=mid;
+idx=mid;
 break;
 }
 else if(arr[mid]<target)
