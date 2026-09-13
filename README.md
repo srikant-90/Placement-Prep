@@ -42,3 +42,4 @@
 | 40 | [longest palindromic substring](./LeetCode/Medium/longest%20palindromic%20substring) | LeetCode | Medium | 10 Sept 2026 | 11:57 pm |
 | 41 | [Longest consecutive Subsequence](./Manual/Medium/Longest%20consecutive%20Subsequence) | Manual | Medium | 11 Sept 2026 | 08:57 pm |
 | 42 | [Array Subset](./Manual/Medium/Array%20Subset) | Manual | Medium | 12 Sept 2026 | 09:04 pm |
+| 43 | [Binary Search](./LeetCode/Easy/Binary%20Search) | LeetCode | Easy | 13 Sept 2026 | 11:17 am |
