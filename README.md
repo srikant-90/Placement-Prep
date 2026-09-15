@@ -44,3 +44,4 @@
 | 42 | [Array Subset](./Manual/Medium/Array%20Subset) | Manual | Medium | 12 Sept 2026 | 09:04 pm |
 | 43 | [Binary Search](./LeetCode/Easy/Binary%20Search) | LeetCode | Easy | 13 Sept 2026 | 11:17 am |
 | 44 | [Accenture pyq](./Manual/Easy/Accenture%20pyq) | Manual | Easy | 14 Sept 2026 | 08:52 pm |
+| 45 | [Triplet sum less than target](./Manual/Medium/Triplet%20sum%20less%20than%20target) | Manual | Medium | 15 Sept 2026 | 07:41 am |
