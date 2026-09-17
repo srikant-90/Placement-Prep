@@ -46,3 +46,4 @@
 | 44 | [Accenture pyq](./Manual/Easy/Accenture%20pyq) | Manual | Easy | 14 Sept 2026 | 08:52 pm |
 | 45 | [Triplet sum less than target](./Manual/Medium/Triplet%20sum%20less%20than%20target) | Manual | Medium | 15 Sept 2026 | 07:41 am |
 | 46 | [All Subsequences of String](./GeeksForGeeks/Medium/All%20Subsequences%20of%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/power-set4302/1) | Medium | 16 Sept 2026 | 11:13 pm |
+| 47 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 17 Sept 2026 | 08:13 pm |
