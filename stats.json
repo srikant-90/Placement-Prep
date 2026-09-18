@@ -1,12 +1,12 @@
 {
-  "totalSolved": 47,
+  "totalSolved": 48,
   "currentStreak": 31,
   "maxStreak": 31,
   "lastSyncDate": "2026-09-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 32,
-    "medium": 15,
+    "medium": 16,
     "hard": 0,
     "basic": 0
   },
@@ -57,7 +57,8 @@
     "Manual_Triplet_sum_less_than_target": true,
     "GeeksForGeeks_All_Subsequences_of_String": true,
     "LeetCode_Climbing_Stairs": true,
-    "LeetCode_Duplicate_Emails": true
+    "LeetCode_Duplicate_Emails": true,
+    "LeetCode_Department_Highest_Salary": true
   },
   "activityHistory": {
     "2026-08-02": 1,
@@ -106,9 +107,10 @@
     "2026-09-15": 1,
     "2026-09-16": 1,
     "2026-09-17": 1,
-    "2026-09-18": 1
+    "2026-09-18": 2
   },
   "todayProblems": [
-    "Duplicate Emails"
+    "Duplicate Emails",
+    "Department Highest Salary"
   ]
 }
