@@ -49,3 +49,4 @@
 | 47 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 17 Sept 2026 | 08:13 pm |
 | 48 | [Duplicate Emails](./LeetCode/Easy/Duplicate%20Emails) | [LeetCode](https://leetcode.com/problems/duplicate-emails/) | Easy | 18 Sept 2026 | 05:55 pm |
 | 49 | [Department Highest Salary](./LeetCode/Medium/Department%20Highest%20Salary) | [LeetCode](https://leetcode.com/problems/department-highest-salary/) | Medium | 18 Sept 2026 | 06:00 pm |
+| 50 | [Search in Rotated Sorted Array](./GeeksForGeeks/Medium/Search%20in%20Rotated%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) | Medium | 20 Sept 2026 | 11:16 pm |

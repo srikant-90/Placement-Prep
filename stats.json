@@ -1,12 +1,12 @@
 {
-  "totalSolved": 48,
-  "currentStreak": 31,
+  "totalSolved": 49,
+  "currentStreak": 1,
   "maxStreak": 31,
-  "lastSyncDate": "2026-09-18",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-20",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 32,
-    "medium": 16,
+    "medium": 17,
     "hard": 0,
     "basic": 0
   },
@@ -58,7 +58,8 @@
     "GeeksForGeeks_All_Subsequences_of_String": true,
     "LeetCode_Climbing_Stairs": true,
     "LeetCode_Duplicate_Emails": true,
-    "LeetCode_Department_Highest_Salary": true
+    "LeetCode_Department_Highest_Salary": true,
+    "GeeksForGeeks_Search_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-08-02": 1,
@@ -107,10 +108,10 @@
     "2026-09-15": 1,
     "2026-09-16": 1,
     "2026-09-17": 1,
-    "2026-09-18": 2
+    "2026-09-18": 2,
+    "2026-09-20": 1
   },
   "todayProblems": [
-    "Duplicate Emails",
-    "Department Highest Salary"
+    "Search in Rotated Sorted Array"
   ]
 }
