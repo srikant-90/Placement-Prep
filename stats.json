@@ -1,14 +1,14 @@
 {
-  "totalSolved": 50,
-  "currentStreak": 2,
+  "totalSolved": 51,
+  "currentStreak": 3,
   "maxStreak": 31,
-  "lastSyncDate": "2026-09-21",
+  "lastSyncDate": "2026-09-22",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 33,
     "medium": 17,
     "hard": 0,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
     "LeetCode_Sort_Colors": true,
@@ -60,7 +60,8 @@
     "LeetCode_Duplicate_Emails": true,
     "LeetCode_Department_Highest_Salary": true,
     "GeeksForGeeks_Search_in_Rotated_Sorted_Array": true,
-    "GeeksForGeeks_Square_Root": true
+    "GeeksForGeeks_Square_Root": true,
+    "GeeksForGeeks_Middle_of_Three": true
   },
   "activityHistory": {
     "2026-08-02": 1,
@@ -111,9 +112,10 @@
     "2026-09-17": 1,
     "2026-09-18": 2,
     "2026-09-20": 1,
-    "2026-09-21": 1
+    "2026-09-21": 1,
+    "2026-09-22": 1
   },
   "todayProblems": [
-    "Square Root"
+    "Middle of Three"
   ]
 }

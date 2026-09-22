@@ -51,3 +51,4 @@
 | 49 | [Department Highest Salary](./LeetCode/Medium/Department%20Highest%20Salary) | [LeetCode](https://leetcode.com/problems/department-highest-salary/) | Medium | 18 Sept 2026 | 06:00 pm |
 | 50 | [Search in Rotated Sorted Array](./GeeksForGeeks/Medium/Search%20in%20Rotated%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) | Medium | 20 Sept 2026 | 11:16 pm |
 | 51 | [Square Root](./GeeksForGeeks/Easy/Square%20Root) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/square-root/1) | Easy | 21 Sept 2026 | 08:20 pm |
+| 52 | [Middle of Three](./GeeksForGeeks/Basic/Middle%20of%20Three) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/middle-of-three2926/1) | Basic | 22 Sept 2026 | 10:55 pm |
