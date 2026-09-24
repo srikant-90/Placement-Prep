@@ -53,3 +53,4 @@
 | 51 | [Square Root](./GeeksForGeeks/Easy/Square%20Root) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/square-root/1) | Easy | 21 Sept 2026 | 08:20 pm |
 | 52 | [Middle of Three](./GeeksForGeeks/Basic/Middle%20of%20Three) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/middle-of-three2926/1) | Basic | 22 Sept 2026 | 10:55 pm |
 | 53 | [Missing And Repeating](./GeeksForGeeks/Easy/Missing%20And%20Repeating) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | Easy | 23 Sept 2026 | 11:31 pm |
+| 54 | [Excel Sheet Column Number](./LeetCode/Easy/Excel%20Sheet%20Column%20Number) | [LeetCode](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | 24 Sept 2026 | 08:42 pm |
