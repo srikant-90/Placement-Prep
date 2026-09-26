@@ -55,3 +55,4 @@
 | 53 | [Missing And Repeating](./GeeksForGeeks/Easy/Missing%20And%20Repeating) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | Easy | 23 Sept 2026 | 11:31 pm |
 | 54 | [Excel Sheet Column Number](./LeetCode/Easy/Excel%20Sheet%20Column%20Number) | [LeetCode](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | 24 Sept 2026 | 08:42 pm |
 | 55 | [Employee Bonus](./LeetCode/Easy/Employee%20Bonus) | [LeetCode](https://leetcode.com/problems/employee-bonus/) | Easy | 25 Sept 2026 | 09:05 pm |
+| 56 | [Generate Fibonacci Sequence](./LeetCode/Easy/Generate%20Fibonacci%20Sequence) | [LeetCode](https://leetcode.com/problems/generate-fibonacci-sequence/) | Easy | 26 Sept 2026 | 08:21 pm |
