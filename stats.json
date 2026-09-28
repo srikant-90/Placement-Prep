@@ -1,11 +1,11 @@
 {
-  "totalSolved": 56,
-  "currentStreak": 8,
+  "totalSolved": 57,
+  "currentStreak": 9,
   "maxStreak": 31,
-  "lastSyncDate": "2026-09-27",
+  "lastSyncDate": "2026-09-28",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 38,
+    "easy": 39,
     "medium": 17,
     "hard": 0,
     "basic": 1
@@ -66,7 +66,8 @@
     "LeetCode_Excel_Sheet_Column_Number": true,
     "LeetCode_Employee_Bonus": true,
     "LeetCode_Generate_Fibonacci_Sequence": true,
-    "LeetCode_Find_the_Difference": true
+    "LeetCode_Find_the_Difference": true,
+    "LeetCode_Is_Subsequence": true
   },
   "activityHistory": {
     "2026-08-02": 1,
@@ -123,9 +124,10 @@
     "2026-09-24": 1,
     "2026-09-25": 1,
     "2026-09-26": 1,
-    "2026-09-27": 1
+    "2026-09-27": 1,
+    "2026-09-28": 1
   },
   "todayProblems": [
-    "Find the Difference"
+    "Is Subsequence"
   ]
 }

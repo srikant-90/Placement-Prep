@@ -57,3 +57,4 @@
 | 55 | [Employee Bonus](./LeetCode/Easy/Employee%20Bonus) | [LeetCode](https://leetcode.com/problems/employee-bonus/) | Easy | 25 Sept 2026 | 09:05 pm |
 | 56 | [Generate Fibonacci Sequence](./LeetCode/Easy/Generate%20Fibonacci%20Sequence) | [LeetCode](https://leetcode.com/problems/generate-fibonacci-sequence/) | Easy | 26 Sept 2026 | 08:21 pm |
 | 57 | [Find the Difference](./LeetCode/Easy/Find%20the%20Difference) | [LeetCode](https://leetcode.com/problems/find-the-difference/) | Easy | 27 Sept 2026 | 07:58 pm |
+| 58 | [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) | [LeetCode](https://leetcode.com/problems/is-subsequence/) | Easy | 28 Sept 2026 | 10:05 am |
